@@ -3,7 +3,8 @@
 
 您可以通过<a href='https://www.cluebenchmarks.com/dataSet_upload.html'>上传数据集信息</a>贡献你的力量。上传五个或以上数据集信息并审核通过后，该同学可以作为项目贡献者，并显示出来。
 
-体验Demo：<a href="https://www.modelfun.cn" target="_" style="color:red">数据集自动标注工具--释放AI潜力！</a>
+
+<a href="https://www.cluebenchmarks.com/clueai.html">clueai工具包: 三分钟三行代码搞定NLP开发（零样本学习）</a>
 
 
 ![gif](./scripts/git.gif)
